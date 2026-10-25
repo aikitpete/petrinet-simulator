@@ -1,5 +1,9 @@
 # petrinet-simulator
 
-> **Status:** old academic project (Visual Studio / C++), not maintained and not documented beyond this note. The earlier `simulator1` is a Makefile build; later folders are Visual Studio projects.
+Petri net simulator in C++ for modelling transitions, states and process behaviour.
 
-A custom C++ Petri net simulator for modeling transitions, states, and process behavior.
+`simulator1` builds with a Makefile; `simulator2` and `simulator3` are Visual Studio projects.
+
+**Status:** archived university-era project.
+
+MIT licence.
